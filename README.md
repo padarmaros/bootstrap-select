@@ -68,9 +68,9 @@ Checkout the [documentation](http://silviomoreto.github.io/bootstrap-select) for
 
 **N.B.**: The CDN is updated after the release is made public, which means that there is a delay between the publishing of a release and its availability on the CDN. Check [the GitHub page](https://github.com/silviomoreto/bootstrap-select/releases) for the latest release.
 
-* [//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.11.2/css/bootstrap-select.min.css](//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.11.2/css/bootstrap-select.min.css)
-* [//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.11.2/js/bootstrap-select.min.js](//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.11.2/js/bootstrap-select.min.js)
-* //cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.11.2/js/i18n/defaults-*.min.js (The translation files)
+* [//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/css/bootstrap-select.min.css](//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/css/bootstrap-select.min.css)
+* [//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/bootstrap-select.min.js](//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/bootstrap-select.min.js)
+* //cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/i18n/defaults-*.min.js (The translation files)
 
 ## Bugs and feature requests
 
@@ -93,5 +93,6 @@ Licensed under [the MIT license](LICENSE).
 * [membermeister](https://www.membermeister.com)
 * [Solve for All](https://solveforall.com)
 * [EstiMATEit](http://www.123itworks.co.uk)
+* [Convertizer](https://convertizer.com)
 
 Does your organization use bootstrap-select? Open an issue, and include a link and logo, and you'll be added to the list.
